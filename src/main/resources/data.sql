@@ -1,0 +1,2 @@
+INSERT INTO Administrator (id, username, password, first_name, last_name, phone_number, email, date_of_birth, role ,active_status)
+ VALUES (1, 'admin', '123','Boris','Knezevic','+381621914681','boris.knezevic@mail.ru',null,1, true);
